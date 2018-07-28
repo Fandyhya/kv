@@ -104,7 +104,7 @@ if($message['type']=='text') {
 							'replyToken' => $replyToken,														
 							'messages' => array(
 								array(
-										'type' => '',									
+										'type' => 'text',									
 										'text' => ''										
 									
 									)
